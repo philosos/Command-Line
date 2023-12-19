@@ -11,3 +11,5 @@ if args.foo:
     print('Foo:', args.foo)
 if args.bar:
     print('Bar:', args.bar)
+else:
+    print('Done')
